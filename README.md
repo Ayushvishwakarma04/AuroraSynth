@@ -17,10 +17,10 @@ AuroraSynth is a modern, vibrant Visual Studio Code theme designed for developer
 ## 🌓 Theme Previews
 
 ### Dark Mode
-![AuroraSynth Dark Screenshot](https://user-images.githubusercontent.com/your-screenshot-dark.png)
+![AuroraSynth Dark Screenshot](https://github.com/Ayushvishwakarma04/AuroraSynth/blob/main/AuroraSynth%20Dark.png)
 
 ### Light Mode
-![AuroraSynth Light Screenshot](https://user-images.githubusercontent.com/your-screenshot-light.png)
+![AuroraSynth Light Screenshot](https://github.com/Ayushvishwakarma04/AuroraSynth/blob/main/AuroraSynth%20Light.png)
 
 ---
 
