@@ -1,0 +1,26 @@
+{
+  "name": "aurorasynth",
+  "displayName": " AuroraSynth",
+  "description": "Dark and Techy Vibes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AuroraSynth Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/0xK4ge-color-theme.json"
+      },
+      {
+        "label": "AuroraSynth Light",
+        "uiTheme": "vs",
+        "path": "./themes/0xK4ge-light-color-theme.json"
+      }
+    ]
+  }
+}
