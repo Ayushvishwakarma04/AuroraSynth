@@ -13,3 +13,6 @@ This project adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
     - Unique pink and synthwave-inspired palette
     - High contrast and consistent UI styling
     - Support for popular languages and file types
+
+## [-v: 0.0.2]
+- Improved the extension's README to provide a better overview and presentation on the Marketplace page

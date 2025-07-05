@@ -1,14 +1,30 @@
 {
   "name": "aurorasynth",
-  "displayName": " AuroraSynth",
-  "description": "Dark and Techy Vibes",
-  "version": "0.0.1",
+  "displayName": "AuroraSynth",
+  "description": "Dark and Cute Vibes",
+  "version": "0.0.2",
+  "publisher": "0xK4GE",
   "engines": {
     "vscode": "^1.101.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ayushvishwakarma04/AuroraSynth"
+  },
+  "bugs": {
+    "url": "https://github.com/Ayushvishwakarma04/AuroraSynth/issues"
+  },
+  "homepage": "https://github.com/Ayushvishwakarma04/AuroraSynth",
+  "license": "MIT",
+  "preview": true,
+  "galleryBanner": {
+    "color": "#21214c",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
